@@ -23,8 +23,8 @@ function App() {
     }
 
     //open file
-    const file = 'C:\Users\kelum\Desktop\Keylogger\backend\keylogger.docx'
-    const type = 'docx'
+    const file = '..\\..\\keyspier-backend\\keylogger.xml'
+    const type = 'xml'
     const openh = () => (
         <FileViewer
             fileType={type}
