@@ -1,7 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
 import axios from 'axios'
-import File from './Displaydata.js'
 import FileViewer from 'react-file-viewer';
 
 function App() {
